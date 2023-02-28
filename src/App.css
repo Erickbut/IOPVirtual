@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50px;
+  height: 100px;
+  padding: 1.5rem;
+  transition: filter 500ms;
+}
+
+.logo:hover {
+  transform: scale(1.10);
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  margin: 40px;
+  gap: 10px;
+}
